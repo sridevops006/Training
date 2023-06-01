@@ -1,3 +1,5 @@
+dev1 changes in machine1
+>>>>>>> c3006c16a24ad21108d89a4555ebf9c1d3248397
 Y changes
 
 b
@@ -11,7 +13,9 @@ kko
 
 hhow r u i
 
+dev1 changes in machine1
 
+hi
 
 hel i am fyn lo
 
